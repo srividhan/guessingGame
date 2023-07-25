@@ -1,0 +1,42 @@
+.main{
+    display: flex;
+    position: relative;
+    margin: 0%;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/600c783087812b75eb0a1732/1614051534070-I8N19HXVUKYJ7DAAVC0L/Shikamaru+Shogi.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1470px;
+    height: 720px;
+}
+.na{
+    position: absolute;
+    margin-left: 25%;
+    margin-top: 5%;
+    width: 50%;
+    height: 20%;
+}
+.write{
+    font-size: xx-large;
+}
+.img2{
+    display: flex;
+    position: relative;
+    margin: 0%;
+    background-image: url(https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2021/08/naruto-naruto-uzumaki-2425679.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1470px;
+    height: 720px;
+}
+.replay:hover{
+    transform: scale(1.1);
+    background-color: rgb(19, 224, 162);
+}
+.test:hover{
+    transform: scale(1.1);
+    background-color: red;
+}
+#but1:hover{
+    transform: scale(1.1);
+    background-color: rgb(47, 248, 141);
+}
