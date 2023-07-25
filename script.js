@@ -1,5 +1,4 @@
 var a=Math.floor(Math.random()*100+1);
-console.log(a);
 var c=document.querySelector(".na");
 var b=document.createElement("div");
 c.classList.add('b');
